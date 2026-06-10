@@ -1,7 +1,9 @@
 # MiSpectrum
 
 > [!NOTE]
-> Projeto em desenvolvimento!
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mispectrum
+
+Projeto em desenvolvimento!
 
 É um software desenvolvido para exibir um Espectro conforme o áudio é capturado, é necessário selecionar o áudio do microfone através do software de Controle de Volume (exemplo pavucontrol).
 
