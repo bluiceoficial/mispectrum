@@ -1,7 +1,9 @@
 # MiSpectrum
 
-> [!NOTE]
-> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mispectrum
+<!-- Badge opcional para deixar claro visualmente -->
+![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
+
+> **Aviso importante:** Este software foi **oficialmente arquivado** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
 
 Projeto em desenvolvimento!
 
